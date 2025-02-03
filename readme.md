@@ -7,6 +7,8 @@ This project consists of 5 items, which are:
 * recipe.css file which is the custom stylesheet file for pie.html
 * assets Folder. Inside this folder, there is a most delicious and mouth-watering picture of Lemon Meringue Pie as well as the only asset that is used to build this project.
 
+[Live Version of the Website](httpsL//lissants.github.io/)
+
 This project was made in adherence to the completion of the first assignment of Web Programming course (CSCV 337) for the University of Arizona
 
 This project is made by: Christopher Gerard Lissants (23792093)
