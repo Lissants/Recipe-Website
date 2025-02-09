@@ -53,6 +53,17 @@ body{
   text-decoration: underline;
 }
 
+.cooking-steps{
+  /*Remove the default unordered list pointer which is bullet point*/
+  list-style-type: none;
+}
+
+.cooking-steps li::before{
+  /*Replace the bullet point with a dash "-"*/
+  content: "- ";
+  padding: 5px;
+}
+
 .user-comments{
   /*One styling rule for all the user comments*/
   font-family: Georgia, 'Times New Roman', Times, serif;
